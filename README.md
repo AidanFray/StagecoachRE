@@ -220,11 +220,6 @@ Running this produces a json file with the word and colours:
    "word": "Solve",
    "colour": "Green"
  },
- {
-   "day": 4,
-   "word": "Pause",
-   "colour": "Green"
- },
  [...]
  {
    "day": 364,
